@@ -1,4 +1,4 @@
-``# Onigiri Bot
+# Onigiri Bot
 
 This repository contains my personal training assets for LINE chat-bot development.
 
